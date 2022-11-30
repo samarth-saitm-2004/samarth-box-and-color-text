@@ -1,0 +1,26 @@
+.box
+{   
+    height: 800px;
+    width: 800px;
+    color: yellow;
+    box-shadow: -16px 12px 90px 3px red inset;
+    -webkit-box-shadow: -16px 12px 90px 3px blue inset;
+    -moz-box-shadow: -16px 12px 90px 3px  inset;
+    margin-left: 45%;
+    border-radius: 54px;
+    background: #ff6200;
+    background: linear-gradient(154deg,#ff6200 0%, #e200ff 80%);
+    background: -webkit-linear-gradient(154deg,#ff6200 0%, #e200ff 80%);
+    background: -moz-linear-gradient(154deg,#ff6200 0%, #e200ff 80%);
+    
+    
+}
+
+h1
+{
+    text-shadow: -10px 12px 6px rgba(250, 34, 5, 0.81);
+    font-size: 200px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
